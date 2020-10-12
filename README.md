@@ -5,11 +5,15 @@ The purpose of this project was to refactor the Module 2 solution code to loop t
 
 ## Results
 
-For both years, the refactored code was executed more quickly.  The times for the refactored code are shown below.
+For both years, the refactored code was executed more quickly.  The times for the refactored code are shown below. 
+
+###Original
 
 ![png](resources/original_2017.png)
 
 ![png](resources/original_2018.png)
+
+###Refactored
 
 ![png](resources/VBA_Challenge_2017.png)
 
