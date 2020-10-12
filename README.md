@@ -7,6 +7,10 @@ The purpose of this project was to refactor the Module 2 solution code to loop t
 
 For both years, the refactored code was executed more quickly.  The times for the refactored code are shown below.
 
+![png](Resources/VBA_Challenge_2017.png)
+
+![png](Resources/VBA_Challenge_2018.png)
+
 ## Summary
 
 The advantages of refactoring code are that it potentially reduces execution times and makes the code more readable and efficient.  Disadvanatges are that it is time consuming and may introduce bugs into the code. 
